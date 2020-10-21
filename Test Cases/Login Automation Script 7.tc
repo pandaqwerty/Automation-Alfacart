@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with wrong password</description>
+   <name>Login Automation Script 7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba219c0d-c39d-45ae-ad5b-c5ba8ad0a771</testCaseGuid>
+</TestCaseEntity>

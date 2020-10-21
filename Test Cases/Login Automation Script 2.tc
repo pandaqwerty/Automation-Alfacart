@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login berhasil dengan facebook</description>
+   <name>Login Automation Script 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa2c5157-04de-4514-bec3-23e621a85c61</testCaseGuid>
+</TestCaseEntity>
